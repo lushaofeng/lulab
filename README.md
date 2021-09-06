@@ -1,2 +1,1 @@
-# lulab
-shaofeng lu lab page 
+# Lu Shaofeng's lab page
